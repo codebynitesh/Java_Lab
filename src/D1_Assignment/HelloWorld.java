@@ -1,4 +1,4 @@
-package D1_Basics;
+package D1_Assignment;
 
 public class HelloWorld {
     public static void main(String args[]){

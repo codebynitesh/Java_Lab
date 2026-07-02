@@ -1,4 +1,4 @@
-package D1_Basics;
+package D1_Assignment;
 //5. Take 2 numbers as input and print the largest number.
 import java.util.Scanner;
 public class LargestOfTwoNumbers {

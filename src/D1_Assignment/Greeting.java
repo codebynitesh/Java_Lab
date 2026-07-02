@@ -1,4 +1,4 @@
-package D1_Basics;
+package D1_Assignment;
 //2. Take name as input and print a greeting message for that particular name.
 import java.util.Scanner;
 public class Greeting {
