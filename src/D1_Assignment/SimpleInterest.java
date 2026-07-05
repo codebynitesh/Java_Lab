@@ -12,6 +12,6 @@ public class SimpleInterest {
         double R = sc.nextDouble();
         double Final_Amount = (P * T * R)/(100) + P;
         System.out.println("The final amount is " + Final_Amount);
-
+        sc.close();
     }
 }

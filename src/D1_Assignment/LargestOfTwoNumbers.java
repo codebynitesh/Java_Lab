@@ -3,17 +3,18 @@ package D1_Assignment;
 import java.util.Scanner;
 public class LargestOfTwoNumbers {
     public static void main(String args[]){
-        System.out.println("Enter the numbers");
+        System.out.println("Enter the number the first number.");
         Scanner sc = new Scanner(System.in);
         double A = sc.nextDouble();
+        System.out.println("Enter the number the second number.");
         double B = sc.nextDouble();
        if (A>B) {
-           System.out.println( A + "is greater than" + B );
+           System.out.println( A + " is greater than" + B );
        } else if (B>A){
            System.out.println(B  + " is greater than" + A);
        }else {
            System.out.println("Both the numbers are equal.");
-       }
+       }sc.close();
     }
 
 }

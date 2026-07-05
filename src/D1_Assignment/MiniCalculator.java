@@ -24,7 +24,7 @@ public class MiniCalculator {
             System.out.println(Result);
         } else {
             System.out.println("Invalid input");
-        }
+        }sc.close();
 
     }
 }

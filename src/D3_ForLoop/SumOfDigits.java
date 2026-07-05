@@ -12,5 +12,6 @@ public class SumOfDigits {
             sum = sum + digit;
         }
         System.out.println("The sum of " + OriginalNum + " is " + sum + "." );
+        sc.close();
     }
 }

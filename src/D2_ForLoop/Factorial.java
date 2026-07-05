@@ -13,7 +13,7 @@ public class Factorial {
             factorial *= i;
         }
         System.out.println("The factorial of " +  n + " is " + factorial + ".");
-
+        sc.close();
 
     }
 }

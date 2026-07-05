@@ -11,6 +11,6 @@ public class CountDigit {
             count++;
         }
         System.out.println("The number of digits in " + OriginalNum + " is " +count);
-
+        sc.close();
     }
 }

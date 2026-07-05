@@ -13,5 +13,6 @@ public class ProductOfDigits {
             product *= digit ;
         }
         System.out.println("The product of the digits of " + Orgnum + " is " + product + ".");
+        sc.close();
     }
 }

@@ -11,6 +11,6 @@ public class OddEven {
         }
         else {
             System.out.println("The number is odd in nature");
-        }
+        } sc.close();
         }
 }

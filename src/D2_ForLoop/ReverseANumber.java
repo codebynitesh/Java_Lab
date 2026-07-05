@@ -14,6 +14,6 @@ public class ReverseANumber {
         }
 
         System.out.println("Reversed number = " + reverse);
-
+        sc.close();
     }
 }

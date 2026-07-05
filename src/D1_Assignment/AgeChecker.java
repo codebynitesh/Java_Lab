@@ -9,6 +9,6 @@ public class AgeChecker {
              System.out.println("You are eligible for voting. ");
          } else {
              System.out.println("You are not eligible for voting yet.");
-         }
+         } sc.close();
     }
 }
