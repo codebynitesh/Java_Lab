@@ -1,6 +1,8 @@
-package D1_Assignment;
+package D1_Assignment1;
 //7. To calculate Fibonacci Series up to n numbers.
+
 import java.util.Scanner;
+
 public class FibonacciSeries {
     public static void main(String[] args) {
 

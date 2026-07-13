@@ -1,6 +1,8 @@
 package D4_ForLoop;
 //Find the largest digit
+
 import java.util.Scanner;
+
 public class FindLargestDigit {
     public static void main(String[] args) {
 
@@ -15,7 +17,7 @@ public class FindLargestDigit {
 
         for (; num != 0; num = num / 10) {
 
-            int digit = (int)(num % 10); // Get the last digit
+            int digit = (int) (num % 10); // Get the last digit
 
             if (digit > largest) {
                 largest = digit; // Update largest digit

@@ -1,6 +1,8 @@
 package D5_ForLoop;
 //Check for prime number
+
 import java.util.Scanner;
+
 public class CheckForPrimeNumber {
     public static void main(String[] args) {
 
@@ -25,4 +27,5 @@ public class CheckForPrimeNumber {
         }
 
         sc.close();
-}}
+    }
+}

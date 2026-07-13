@@ -1,4 +1,5 @@
-package D1_Assignment;
+package D1_Assignment1;
+
 import java.util.Scanner;
 
 public class ArmstrongBetweenTwoNumbers {
@@ -7,10 +8,10 @@ public class ArmstrongBetweenTwoNumbers {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the starting number: ");
-        int start = sc.nextInt();
+        int start = 1;
 
         System.out.print("Enter the ending number: ");
-        int end = sc.nextInt();
+        int end = 1000;
 
         System.out.println("Armstrong numbers between " + start + " and " + end + " are:");
 
